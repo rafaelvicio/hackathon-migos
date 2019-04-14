@@ -17,6 +17,7 @@ Hackathon de introdução a JavaScript
 - Desafio 04 Repetição
 - Desafio 05 Condição
 - Desafio 06 Objetos
+- Desafio 06 Tipos
 
 ## Livros
 
